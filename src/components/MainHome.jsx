@@ -344,7 +344,7 @@ export default function MainHome({newposts,topthrees}) {
               <h5 className="card-title">居家清潔</h5>
               <p className="card-text">到府服務個人工作室<br/>
               能為您做簡易收納、衣物清洗、打掃客廳、餐廳、廚房、衛浴、臥室、前後陽台...等。</p>
-              <Link href="#" className="btn home_btn">服務詳情</Link>
+              <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
             </div>
           </div>
           <div className="card col-lg-2 col-md-3 card-layout">
@@ -353,7 +353,7 @@ export default function MainHome({newposts,topthrees}) {
               <h5 className="card-title">居家除塵蟎</h5>
               <p className="card-text">淨域居家除塵工作室<br/>
               您好，淨域居家除塵工作室希望能為您服務！</p>
-              <Link href="#" className="btn home_btn">服務詳情</Link>
+              <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
             </div>
           </div>
           <div className="card col-lg-2 col-md-3 card-layout">
@@ -363,7 +363,7 @@ export default function MainHome({newposts,topthrees}) {
               <p className="card-text">居家清潔打掃-66清潔公司<br/>
               工程不分大小，均以最高格調待之，服務態度親切，細心施工，細節都以放大鏡檢視完成，任何狀況都會細心詳細...
               </p>
-              <Link href="#" className="btn home_btn">服務詳情</Link>
+              <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
             </div>
           </div>
         </div>
@@ -379,7 +379,7 @@ export default function MainHome({newposts,topthrees}) {
                 <p className="card-text">佑森窗簾傢飾行<br/>
                 各位好本公司百繕鋁門窗將在2022年持續為您服務，專營:氣密窗、鋁門窗、白鐵門窗、門窗安裝維修。歡迎...
                 </p>
-                <Link href="#" className="btn home_btn">服務詳情</Link>
+                <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
               </div>
             </div>
             <div className="card col-lg-2 col-md-3 card-layout">
@@ -389,7 +389,7 @@ export default function MainHome({newposts,topthrees}) {
                 <p className="card-text">朝華企業-消毒除蟲白蟻防治<br/>
                 本公司於業界已經30年，不論是白蟻、老鼠、蛀蟲、蟑螂...等害蟲都可以有效且快速抑制1.裝潢前木材白...
                 </p>
-                <Link href="#" className="btn home_btn">服務詳情</Link>
+                <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
               </div>
             </div>
             <div className="card col-lg-2 col-md-3 card-layout">
@@ -399,7 +399,7 @@ export default function MainHome({newposts,topthrees}) {
                 <p className="card-text">佳宏水電行<br/>
                 您好，佳宏水電行希望能為您服務！
                 </p>
-                <Link href="#" className="btn home_btn">服務詳情</Link>
+                <Link href="#" className="btn home_btn btn-block">服務詳情</Link>
               </div>
             </div>
           </div>

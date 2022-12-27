@@ -24,7 +24,7 @@ export default function GridItem({ product }) {
                     </div>
                 </div>
                 <div className="candidate-list-favourite-time">
-                <Link to={`/product/${product.id}`} className="smallLifeBtn" target="_self" title="服務詳情">
+                <Link to={`/product/${product.id}`} className="smallLifeBtn align-center" target="_self" title="服務詳情">
                     服務詳情
                 </Link>
                 </div>

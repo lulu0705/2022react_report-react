@@ -199,7 +199,7 @@ const FeedbackLayout = ({ redirect }) => {
                 
                 <Button
                     type="primary"
-                    className="btn home_btn btn-block confirm-button"
+                    className="btn btn-block confirm-button"
                     htmlType="submit"
                     style={{  marginTop: '-30px'}}
                 >
