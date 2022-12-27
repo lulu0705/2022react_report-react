@@ -409,9 +409,10 @@ body {
 }
 
 
-.btn.home_btn:hover {
-  background-color: #FFE8A5;
+.home_btn:hover {
+  background-color: bisque;
   --bs-btn-hover-bg: bisque;
+  color: #646464;
 }
 
 .card-img-top {
@@ -917,6 +918,8 @@ section,
   color: '#646464';
 }
 
+
+
 .candidate-list-details ul {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1009,7 +1012,7 @@ section,
 
 .candidate-grid .candidate-list-details {
   text-align: center;
-  padding: 20px 20px 0px 20px;
+  padding: 20px 20px 20px 20px;
   border: 1px solid #eeeeee;
   border-top: none;
 }
@@ -1461,7 +1464,8 @@ section,
   width: 120px;
   color: #fff;
   vertical-align: middle;
-  letter-spacing: 1px
+  letter-spacing: 1px;
+  text-decoration: none;
 }
 .service_Reservation:hover {
   color: #fff;
