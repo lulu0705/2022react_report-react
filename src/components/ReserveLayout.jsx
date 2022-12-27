@@ -389,7 +389,7 @@ const ReserveLayout = ({ product, redirect }) => {
         
           <Button
             type="primary"
-            className="btn confirm-button"
+            className="btn service_Reservation"
             htmlType="submit"
             // onClick={() => {setCompany(product.company);setName(product.name)}}
             // onClick={() => {setProject_name(product.name);sendEmail}}

@@ -199,7 +199,7 @@ const FeedbackLayout = ({ redirect }) => {
                 
                 <Button
                     type="primary"
-                    className="btn btn-block confirm-button"
+                    className="service_Reservation"
                     htmlType="submit"
                     style={{  marginTop: '-30px'}}
                 >
