@@ -20,15 +20,13 @@ export default function GridItem({ product }) {
                             <li>{product.location}</li>
                             <li>NT${product.price}/{product.hour}</li>
                         </ul>
-                        <p>{product.company}</p>
+                        <p className="candidate-list-text">{product.company}</p>
                     </div>
                 </div>
                 <div className="candidate-list-favourite-time">
-                <div className="flexBtCenter">
                 <Link to={`/product/${product.id}`} className="smallLifeBtn" target="_self" title="服務詳情">
                     服務詳情
                 </Link>
-	            </div>
                 </div>
 
             </div>

@@ -384,12 +384,12 @@ const ReserveLayout = ({ product, redirect }) => {
     <div className="center-layout">
 
       <Form.Item 
-    //   {...tailFormItemLayout}
+    //   {...tailFormItemLayout} btn-primary btn-block 
       >
         
           <Button
             type="primary"
-            className="btn btn-primary btn-block confirm-button"
+            className="btn confirm-button"
             htmlType="submit"
             // onClick={() => {setCompany(product.company);setName(product.name)}}
             // onClick={() => {setProject_name(product.name);sendEmail}}
