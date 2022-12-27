@@ -44,15 +44,7 @@ function App() {
         <Route path="/Feedback" element={<Feedback />} />
         <Route path="/Reserve/:productId" element={<Reserve />} />
 
-        {/* <Route path="/Reserve" element={<Reserve />} /> */}
-
-        {/* <Route path="/indoor" element={<Indoor />} />
-        <Route path="/storage" element={<Storage />} />
-        <Route path="/bugs" element={<Bugs />} />
-        <Route path="/blockage" element={<Blockage />} />
-        <Route path="/doorwindowfix" element={<DoorWindowFix />} />
-        <Route path="/feedback" element={<Feedback />} /> */}
-        </Routes>    
+      </Routes>    
     </BrowserRouter>
     </Provider>
     </QueryClientProvider>
